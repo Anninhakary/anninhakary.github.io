@@ -741,7 +741,7 @@
 				content: '';
 				display: block;
 				position: absolute;
-				top: 50%;
+				top: 10%;
 				left: -3em;
 				width: calc(10% + 6em);
 				height: 1px;
